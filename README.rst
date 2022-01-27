@@ -1,8 +1,5 @@
 |Latest Version| |Supported Python versions| |Wheel format| |License|
-|Development Status| |Downloads monthly| |Requirements Status| |Code
-Health| |Codacy Badge| |Build Status|
-
-\*\* Work in progress \*\*
+|Development Status| |Downloads monthly| |Build Status|
 
 pandas\_talib
 =============
