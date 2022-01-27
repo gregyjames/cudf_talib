@@ -7,7 +7,7 @@ Health| |Codacy Badge| |Build Status|
 pandas\_talib
 =============
 
-A Python Pandas implementation of technical indicators
+A faster talib (A Python Pandas implementation of technical indicators) interpretation built for speed with cudf
 
 Original version from:
 
