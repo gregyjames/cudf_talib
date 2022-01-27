@@ -1,6 +1,3 @@
-|Latest Version| |Supported Python versions| |Wheel format| |License|
-|Development Status| |Downloads monthly| |Build Status|
-
 cudf\_talib
 =============
 
