@@ -5,6 +5,7 @@ Last update on July 18, 2015
 @author: Bruno Franca
 @author: Peter Bakker
 @author: Femto Trader
+@author: Greg James
 '''
 import pandas as pd
 import numpy as np
