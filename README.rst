@@ -1,10 +1,10 @@
 |Latest Version| |Supported Python versions| |Wheel format| |License|
 |Development Status| |Downloads monthly| |Build Status|
 
-pandas\_talib
+cudf\_talib
 =============
 
-A faster talib (A Python Pandas implementation of technical indicators) interpretation built for speed with cudf
+A faster talib (A Python Pandas implementation of technical indicators) interpretation built for speed with cudf instead of pandas.
 
 Original version from:
 
@@ -98,33 +98,3 @@ Known Issues
 ~~~~~~~~~~~~~
 
 - The method ROC is currently not accurate yet.
-
-Collaborating
-~~~~~~~~~~~~~
-
--  Fork repository
--  Create a branch which fix a given issue
--  Submit pull requests
-
-https://help.github.com/categories/collaborating/
-
-.. |Latest Version| image:: https://img.shields.io/pypi/v/pandas_talib.svg
-   :target: https://pypi.python.org/pypi/pandas_talib/
-.. |Supported Python versions| image:: https://img.shields.io/pypi/pyversions/pandas_talib.svg
-   :target: https://pypi.python.org/pypi/pandas_talib/
-.. |Wheel format| image:: https://img.shields.io/pypi/wheel/pandas_talib.svg
-   :target: https://pypi.python.org/pypi/pandas_talib/
-.. |License| image:: https://img.shields.io/pypi/l/pandas_talib.svg
-   :target: https://pypi.python.org/pypi/pandas_talib/
-.. |Development Status| image:: https://img.shields.io/pypi/status/pandas_talib.svg
-   :target: https://pypi.python.org/pypi/pandas_talib/
-.. |Downloads monthly| image:: https://img.shields.io/pypi/dm/pandas_talib.svg
-   :target: https://pypi.python.org/pypi/pandas_talib/
-.. |Requirements Status| image:: https://requires.io/github/femtotrader/pandas_talib/requirements.svg?branch=master
-   :target: https://requires.io/github/femtotrader/pandas_talib/requirements/?branch=master
-.. |Code Health| image:: https://landscape.io/github/femtotrader/pandas_talib/master/landscape.svg?style=flat
-   :target: https://landscape.io/github/femtotrader/pandas_talib/master
-.. |Codacy Badge| image:: https://www.codacy.com/project/badge/1bf3606360934588ba764cca32210f52
-   :target: https://www.codacy.com/app/femto-trader/pandas_talib
-.. |Build Status| image:: https://travis-ci.org/femtotrader/pandas_talib.svg
-   :target: https://travis-ci.org/femtotrader/pandas_talib
